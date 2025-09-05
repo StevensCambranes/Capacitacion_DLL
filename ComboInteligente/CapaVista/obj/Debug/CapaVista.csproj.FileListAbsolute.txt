@@ -1,0 +1,13 @@
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\bin\Debug\CapaVista.dll
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\bin\Debug\CapaVista.pdb
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.dll
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.pdb
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\bin\Debug\CapaControlador.dll
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\bin\Debug\CapaControlador.pdb
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.Combo.resources
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\bin\Debug\CapaModelo.dll
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaVista\bin\Debug\CapaModelo.pdb

@@ -1,0 +1,9 @@
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\bin\Debug\CapaControlador.dll
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.dll
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\bin\Debug\CapaModelo.dll
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\PRINCIPAL\U\8VO SEMESTRE\Análisis de Sistemas 2\Segundo Proyecto\Modulo Comercial\Capacitacion_DLL\ComboInteligente\CapaControlador\obj\Debug\CapaCont.E79CC33A.Up2Date

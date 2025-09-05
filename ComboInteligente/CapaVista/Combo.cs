@@ -29,8 +29,6 @@ namespace CapaVista
             string cmp1 = campo1;
             string cmp2 = campo2;
 
-
-
             Cbo_Auto.ValueMember = "numero";
             Cbo_Auto.DisplayMember = "nombre";
 
@@ -57,7 +55,6 @@ namespace CapaVista
 
                 coleccion.Add(Convert.ToString(row[campo1]) + "-" + Convert.ToString(row[campo2]));
                 coleccion.Add(Convert.ToString(row[campo2]) + "-" + Convert.ToString(row[campo1]));
-
 
             }
 

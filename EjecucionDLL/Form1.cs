@@ -21,7 +21,7 @@ namespace EjecucionDLL
         //Ejecución//
         void cargardatos()
         {
-            combo1.llenarse("empleados", "codigo_empleado", "nombre_completo");
+            combo2.llenarse("empleados", "codigo_empleado", "nombre_completo");
         }
 
     }

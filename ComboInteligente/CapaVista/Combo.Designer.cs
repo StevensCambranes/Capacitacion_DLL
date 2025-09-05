@@ -37,7 +37,7 @@
             this.Cbo_Auto.FormattingEnabled = true;
             this.Cbo_Auto.Location = new System.Drawing.Point(0, 0);
             this.Cbo_Auto.Name = "Cbo_Auto";
-            this.Cbo_Auto.Size = new System.Drawing.Size(245, 21);
+            this.Cbo_Auto.Size = new System.Drawing.Size(424, 21);
             this.Cbo_Auto.TabIndex = 0;
             // 
             // Combo
@@ -46,7 +46,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.Controls.Add(this.Cbo_Auto);
             this.Name = "Combo";
-            this.Size = new System.Drawing.Size(245, 29);
+            this.Size = new System.Drawing.Size(424, 29);
             this.ResumeLayout(false);
 
         }

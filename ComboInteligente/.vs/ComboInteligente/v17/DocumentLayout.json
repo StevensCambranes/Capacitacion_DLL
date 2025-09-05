@@ -7,19 +7,19 @@
       "RelativeMoniker": "D:0:0:{9D1A0944-A637-45B3-BBE5-47BE5529A34D}|CapaVista\\CapaVista.csproj|solutionrelative:capavista\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D7AEAF2-3EEC-43A8-B53A-3F4053D5F1C0}|CapaControlador\\CapaControlador.csproj|c:\\principal\\u\\8vo semestre\\an\u00E1lisis de sistemas 2\\segundo proyecto\\modulo comercial\\capacitacion_dll\\combointeligente\\capacontrolador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D7AEAF2-3EEC-43A8-B53A-3F4053D5F1C0}|CapaControlador\\CapaControlador.csproj|solutionrelative:capacontrolador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9D1A0944-A637-45B3-BBE5-47BE5529A34D}|CapaVista\\CapaVista.csproj|c:\\principal\\u\\8vo semestre\\an\u00E1lisis de sistemas 2\\segundo proyecto\\modulo comercial\\capacitacion_dll\\combointeligente\\capavista\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{9D1A0944-A637-45B3-BBE5-47BE5529A34D}|CapaVista\\CapaVista.csproj|C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\capavista\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{9D1A0944-A637-45B3-BBE5-47BE5529A34D}|CapaVista\\CapaVista.csproj|solutionrelative:capavista\\combo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF87276-705C-4C71-AFEC-81BD77C5AF07}|CapaModelo\\CapaModelo.csproj|c:\\principal\\u\\8vo semestre\\an\u00E1lisis de sistemas 2\\segundo proyecto\\modulo comercial\\capacitacion_dll\\combointeligente\\capamodelo\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0D7AEAF2-3EEC-43A8-B53A-3F4053D5F1C0}|CapaControlador\\CapaControlador.csproj|C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\capacontrolador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D7AEAF2-3EEC-43A8-B53A-3F4053D5F1C0}|CapaControlador\\CapaControlador.csproj|solutionrelative:capacontrolador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DF87276-705C-4C71-AFEC-81BD77C5AF07}|CapaModelo\\CapaModelo.csproj|C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\capamodelo\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DF87276-705C-4C71-AFEC-81BD77C5AF07}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DF87276-705C-4C71-AFEC-81BD77C5AF07}|CapaModelo\\CapaModelo.csproj|c:\\principal\\u\\8vo semestre\\an\u00E1lisis de sistemas 2\\segundo proyecto\\modulo comercial\\capacitacion_dll\\combointeligente\\capamodelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3DF87276-705C-4C71-AFEC-81BD77C5AF07}|CapaModelo\\CapaModelo.csproj|C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\capamodelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DF87276-705C-4C71-AFEC-81BD77C5AF07}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,40 +38,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Combo.cs",
-              "DocumentMoniker": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaVista\\Combo.cs",
-              "RelativeDocumentMoniker": "CapaVista\\Combo.cs",
-              "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaVista\\Combo.cs",
-              "RelativeToolTip": "CapaVista\\Combo.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAyAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaModelo\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Conexion.cs",
+              "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaModelo\\Conexion.cs",
+              "RelativeToolTip": "CapaModelo\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T20:11:10.595Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Combo.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaVista\\Combo.cs",
-              "RelativeDocumentMoniker": "CapaVista\\Combo.cs",
-              "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaVista\\Combo.cs [Dise\u00F1o]",
-              "RelativeToolTip": "CapaVista\\Combo.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T19:56:14.632Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Controlador.cs",
-              "DocumentMoniker": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaControlador\\Controlador.cs",
-              "RelativeDocumentMoniker": "CapaControlador\\Controlador.cs",
-              "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaControlador\\Controlador.cs",
-              "RelativeToolTip": "CapaControlador\\Controlador.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T19:55:39.627Z",
+              "WhenOpened": "2025-09-05T19:53:10.465Z",
               "EditorCaption": ""
             },
             {
@@ -82,23 +57,48 @@
               "RelativeDocumentMoniker": "CapaModelo\\Sentencias.cs",
               "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaModelo\\Sentencias.cs",
               "RelativeToolTip": "CapaModelo\\Sentencias.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T19:53:21.226Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Conexion.cs",
-              "DocumentMoniker": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaModelo\\Conexion.cs",
-              "RelativeDocumentMoniker": "CapaModelo\\Conexion.cs",
-              "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaModelo\\Conexion.cs",
-              "RelativeToolTip": "CapaModelo\\Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABEAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaControlador\\Controlador.cs",
+              "RelativeDocumentMoniker": "CapaControlador\\Controlador.cs",
+              "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaControlador\\Controlador.cs",
+              "RelativeToolTip": "CapaControlador\\Controlador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T19:53:10.465Z",
+              "WhenOpened": "2025-09-05T19:55:39.627Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Combo.cs",
+              "DocumentMoniker": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaVista\\Combo.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Combo.cs",
+              "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaVista\\Combo.cs",
+              "RelativeToolTip": "CapaVista\\Combo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T20:11:10.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Combo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaVista\\Combo.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Combo.cs",
+              "ToolTip": "C:\\PRINCIPAL\\U\\8VO SEMESTRE\\An\u00E1lisis de Sistemas 2\\Segundo Proyecto\\Modulo Comercial\\Capacitacion_DLL\\ComboInteligente\\CapaVista\\Combo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista\\Combo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T19:56:14.632Z",
+              "EditorCaption": " [Dise\u00F1o]"
             }
           ]
         }

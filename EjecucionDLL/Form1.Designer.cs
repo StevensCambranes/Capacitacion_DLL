@@ -28,22 +28,22 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.combo1 = new CapaVista.Combo();
+            this.combo2 = new CapaVista.Combo();
             this.SuspendLayout();
             // 
-            // combo1
+            // combo2
             // 
-            this.combo1.Location = new System.Drawing.Point(12, 12);
-            this.combo1.Name = "combo1";
-            this.combo1.Size = new System.Drawing.Size(245, 29);
-            this.combo1.TabIndex = 0;
+            this.combo2.Location = new System.Drawing.Point(12, 12);
+            this.combo2.Name = "combo2";
+            this.combo2.Size = new System.Drawing.Size(424, 29);
+            this.combo2.TabIndex = 0;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.combo1);
+            this.ClientSize = new System.Drawing.Size(449, 336);
+            this.Controls.Add(this.combo2);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -53,5 +53,6 @@
         #endregion
 
         private CapaVista.Combo combo1;
+        private CapaVista.Combo combo2;
     }
 }
